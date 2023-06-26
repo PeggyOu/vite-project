@@ -1,0 +1,1 @@
+supabase password: 8NHQgodoemU94X4z
